@@ -19,13 +19,3 @@
 <a href="https://www.codewars.com/users/enes-telli"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/enestelli"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://medium.com/@enestelli"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
-## A Snake Eating My Contributions 🐍
-
-![snake gif](https://github.com/enes-telli/enes-telli/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
-
-
